@@ -1,10 +1,10 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
+title:              JohnHo.ca
+bio:                'this is not real reality. the real reality is behind the curtain. in truth, we are not here. this is our shadow. ~Rumi'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/tom_ensocircle_final.png' #'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -37,22 +37,22 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github:             username
+email:				iam@johnho.ca
+#twitter:            username
+#facebook:           username
+#github:             username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
-#soundcloud:        username
+soundcloud:        ohjho
 #weibo:             username
 #flickr:            username
 #codepen:           username
