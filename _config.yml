@@ -5,7 +5,7 @@ description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/tom_ensocircle_final.png' #'assets/img/logo.png'
-background:         'assets/img/moon3.jpg' #'assets/img/placeholder-big.jpg'
+background:         'assets/img/bg6.jpg' #'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://ohjho.github.io
