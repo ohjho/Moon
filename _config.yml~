@@ -4,8 +4,8 @@ bio:                'this is not real reality. the real reality is behind the cu
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo_enso.png' #'assets/img/logo.png'
-background:         'assets/img/bg/earth1.jpg' #'assets/img/placeholder-big.jpg'
+logo:               'assets/img/tom_ensocircle_final.png' #'assets/img/logo.png'
+background:         'assets/img/earth1.jpg' #'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://ohjho.github.io
