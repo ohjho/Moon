@@ -1,0 +1,63 @@
+# using font awesome 4.7
+# see cheatsheet here: https://fontawesome.bootstrapcheatsheets.com/
+#
+
+- name: GitHub
+  url: http://github.com/traderjohn
+  class: "fa fa-fw fa-github" #"fa fa-fw fa-github"
+  title: Checkout my Github Repos
+
+- name: WhatsApp
+  url: https://api.whatsapp.com/send?phone=85266265090
+  class: "fa fa-fw fa-whatsapp"
+  title: Whatsapp
+
+- name: Instagram
+  url: http://instagram.com/johnho.ca/
+  class: "fa fa-fw fa-instagram"
+  title: JHO on Instagram
+
+#- name: YouTube
+#  url: http://www.youtube.com/
+#  class: "fa fa-fw fa-youtube-square"
+#  title: ""
+
+#- name: Twitter
+#  url: http://twitter.com/
+#  class: "fa fa-fw fa-twitter-square"
+#  title:
+
+# - name: LinkedIn
+#   url:
+#   class: "fa fa-fw fa-linkedin-square"
+#   title:
+
+- name: Mixcloud
+  url: http://www.mixcloud.com/ohjho
+  class: "fa fa-fw fa-mixcloud"
+  title: Listen to my mixes on Mixcloud
+
+- name: Soundcloud
+  url: http://soundcloud.com/ohjho
+  class: "fa fa-fw fa-soundcloud"
+  title: Listen to my mixes on Soundcloud
+
+- name: Facebook
+  url: http://www.facebook.com/john.br0/
+  class: "fa fa-fw fa-facebook-square"
+  title: Friend me on Facebook
+
+- name: GoodReads
+  url: https://www.goodreads.com/user/show/62335315-john-ho
+  class: "fa fa-fw fa-book"
+  title: See what I'm reading
+
+- name: Filpboard
+  url: https://flipboard.com/@jho85
+  class: "fa fa-fw fa-bookmark"
+  title: My Filpboard
+
+- name: Crossfit
+  url: https://games.crossfit.com/athlete/100455
+  class: "fa fa-fw fa-copyright"
+  title: My Crossfit.com Athlete Profile
