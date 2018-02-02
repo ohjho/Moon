@@ -1,17 +1,36 @@
-# Site
+# ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
+#
+#      _____ _ __          _____      __  __  _
+#     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
+#     \__ \/ / __/ _ \    \__ \/ _ \/ __/ __/ / __ \/ __ `/ ___/
+#    ___/ / / /_/  __/   ___/ /  __/ /_/ /_/ / / / / /_/ (__  )
+#   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
+#                                                 /____/
+#
+
 title:              JohnHo.ca
 bio:                'this is not real reality. the real reality is behind the curtain. in truth, we are not here. this is our shadow. ~Rumi'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "Connect with John Ho"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo_enso.png' #'assets/img/logo.png'
-background:         'assets/img/bg/earth1.jpg' #'assets/img/placeholder-big.jpg'
+logo:               'assets/img/logo_jho.png'
+nav_about_img:      'assets/img/about/headshot1.jpg'
+background:         'https://source.unsplash.com/daily' #'assets/img/bg/earth1.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                '' #https://ohjho.github.io
 puburl:	    	    'https://ohjho.github.io'
 
-# Jekyll
+
+#
+#        __     __         ____   _____      __  __  _
+#       / /__  / /____  __/ / /  / ___/___  / /_/ /_(_)___  ____ ______
+#  __  / / _ \/ //_/ / / / / /   \__ \/ _ \/ __/ __/ / __ \/ __ `/ ___/
+# / /_/ /  __/ ,< / /_/ / / /   ___/ /  __/ /_/ /_/ / / / / /_/ (__  )
+# \____/\___/_/|_|\__, /_/_/   /____/\___/\__/\__/_/_/ /_/\__, /____/
+#                /____/                                  /____/
+#
+
 permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
@@ -26,11 +45,29 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-# Comments
+
+#
+#    ______                                     __
+#   / ____/___  ____ ___  ____ ___  ___  ____  / /______
+#  / /   / __ \/ __ `__ \/ __ `__ \/ _ \/ __ \/ __/ ___/
+# / /___/ /_/ / / / / / / / / / / /  __/ / / / /_(__  )
+# \____/\____/_/ /_/ /_/_/ /_/ /_/\___/_/ /_/\__/____/
+#
+#
+
 disqus_shortname:   taylantatli
 
-# Social
+#
+#
+#    _____            _       __
+#   / ___/____  _____(_)___ _/ /
+#   \__ \/ __ \/ ___/ / __ `/ /
+#  ___/ / /_/ / /__/ / /_/ / /
+# /____/\____/\___/_/\__,_/_/
+#
+#
 # if you don't have any of social below, comment the line.
+
 #google:
   #plus:            #username
   #analytics:
@@ -41,7 +78,7 @@ disqus_shortname:   taylantatli
 email:				iam@johnho.ca
 #twitter:            username
 #facebook:           username
-#github:             username
+github:             traderjohn
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -61,7 +98,17 @@ soundcloud:        ohjho
 #xmpp:              username@server.com
 #hackernews:        username
 
-# Gems
+#
+#
+#    ______
+#   / ____/__  ____ ___  _____
+#  / / __/ _ \/ __ `__ \/ ___/
+# / /_/ /  __/ / / / / (__  )
+# \____/\___/_/ /_/ /_/____/
+#
+#
+# > jekyll-mentions: https://github.com/jekyll/jekyll-mentions
+
 gems:
   - jekyll-mentions
   - jekyll-feed
@@ -71,5 +118,14 @@ gems:
 jekyll-mentions:
     base_url: https://github.com
 
-# Exclude list
+#
+#
+#     ______          __          __        __    _      __
+#    / ____/  _______/ /_  ______/ /__     / /   (_)____/ /_
+#   / __/ | |/_/ ___/ / / / / __  / _ \   / /   / / ___/ __/
+#  / /____>  </ /__/ / /_/ / /_/ /  __/  / /___/ (__  ) /_
+# /_____/_/|_|\___/_/\__,_/\__,_/\___/  /_____/_/____/\__/
+#
+#
+
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
