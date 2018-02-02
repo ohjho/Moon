@@ -68,14 +68,14 @@ disqus_shortname:   taylantatli
 #
 # if you don't have any of social below, comment the line.
 
-#google:
+google:
   #plus:            #username
-  #analytics:
+  analytics:        UA-113473508-1
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:				iam@johnho.ca
+email:				      iam@johnho.ca
 #twitter:            username
 #facebook:           username
 github:             traderjohn
