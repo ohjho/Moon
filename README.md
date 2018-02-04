@@ -4,11 +4,20 @@
 
 **[Moon](http://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
 
+Table of Contents
+=================
+  * [Getting Started](#getting-started)
+  * [Features](#features)
+  * [Preview](#preview)
+  * [Documentations](#documentations)
+
 ## Getting Started
-Clone or fork this repo and change the `url` and `puburl` in `_configa.yml`
+Clone or fork this repo and change the `url` and `puburl` in `_config.yml`
+
+To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
 
 ### Prerequisites
-You will need ruby and gem github-pages installed on your computer if you want to serve the Jekyll page locally.
+You will need ruby and the ruby-gem github-pages installed on your computer, if you want to serve the Jekyll page locally.
 
 I highly recommend using [rbenv][2]. Installation is easy if you already have [homebrew][3]:
 ```
@@ -16,7 +25,7 @@ $ brew install rbenv
 ```
 
 ### Ruby and rbenv
-After you have rbenv `cd` to your Jekyll site's directory, and install a Ruby version. This theme was tested on 2.4.0:
+After you have rbenv installed, `cd` to your Jekyll site's directory, and install a Ruby version. This theme was tested on **2.4.0**:
 ```
 # list available versions:
 $ rbenv install -l
@@ -32,9 +41,9 @@ $ rbenv versions
 ```
 
 ### installing Gems
-With rbenv **You don't need to SUDO**, but we need to install some gems:
+With rbenv **You don't need to SUDO**, but we do need to install some gems:
 ```
-# everything we need to github-pages, including jekyll
+# everything we need is in github-pages, including jekyll
 $ gem install github-pages
 
 # we also need bundler
@@ -45,13 +54,13 @@ $ bundler install
 ```
 you can checkout what [bundler][4] does.
 
-if you are struck with some of these ruby, gems, bundler stuff, [this link][5] might be helpful.
+if you are struck with some of these ruby/ gems/ bundler stuff, [this link][5] might be helpful.
 
 ### Serving Locally
 ```
 $ bundle exec jekyll serve --watch    # the watch flag looks for real-time changes to files you edit
 ```
-go to `localhost:4000` in your browser to see your site.
+go to [`localhost:4000`][6] in your browser to see your site.
 
 ## Features
 * Minimal, you can focus on your content
@@ -72,12 +81,11 @@ go to `localhost:4000` in your browser to see your site.
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+## Documentations
 
 [1]: https://paypal.me/ohjho
 [2]: https://github.com/rbenv/rbenv
 [3]: https://brew.sh/
 [4]: http://bundler.io/
 [5]: http://idratherbewriting.com/documentation-theme-jekyll/mydoc_about_ruby_gems_etc.html
+[6]: http://localhost:4000
