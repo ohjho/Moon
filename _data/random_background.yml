@@ -1,0 +1,14 @@
+# Site navigation links
+
+- title: day
+  start-time:
+  end-time:
+  list:
+    -url:
+    -url:
+- title: night
+  start-time:
+  end-time:
+  list:
+    -url:
+    -url:

@@ -14,8 +14,11 @@ description:        "Connect with John Ho"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo_jho.png'
-nav_about_img:      'assets/img/about/headshot1.jpg'
-background:         'https://source.unsplash.com/daily' #'assets/img/bg/earth1.jpg'
+nav_about_img:      'assets/img/about/thn_headshot1.jpg'
+background:         'https://media.giphy.com/media/3o7WIvFNCu6Pgq6qPe/giphy.gif' 
+                    #''
+                    #'https://source.unsplash.com/daily'
+                    #'assets/img/bg/earth1.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                '' #https://ohjho.github.io
@@ -45,6 +48,11 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
+
+#gmap
+gmap_link:          https://www.google.com/maps/d/u/2/embed?mid=15O74rHpuA0zxbGqwUoAXb6mAOpm1ctXI
+address:
+gmap_api_key:
 
 #
 #    ______                                     __

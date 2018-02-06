@@ -57,6 +57,16 @@
   class: "fa fa-fw fa-bookmark"
   title: My Filpboard
 
+- name: Giphy
+  url: https://giphy.com/channel/yogi_cinemagrapher
+  class: "fa fa-fw fa-file-o"
+  title: Giphy-Checkout my Cinemagraphy
+
+- name: Unsplash
+  url: https://unsplash.com/@ohjho/collections
+  class: "fa fa-fw fa-camera"
+  title: My images on Unsplash
+
 - name: Crossfit
   url: https://games.crossfit.com/athlete/100455
   class: "fa fa-fw fa-copyright"

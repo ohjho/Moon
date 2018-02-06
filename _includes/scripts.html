@@ -19,6 +19,9 @@
     </script>
 {% endif %}
 
+<!-- Backstretch -->
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js'></script>
+    <script> $.backstretch("{{site.background}}");</script>
 <!-- Disque Comments -->
 {% if page.comments != false %}
     {% include disqus_comments.html %}

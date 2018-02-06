@@ -14,7 +14,7 @@ Table of Contents
 ## Getting Started
 Clone or fork this repo and change the `url` and `puburl` in `_config.yml`
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+To learn how to install and use this theme check out the [Setup Guide][7] for more information.
 
 ### Prerequisites
 You will need ruby and the ruby-gem github-pages installed on your computer, if you want to serve the Jekyll page locally.
@@ -89,3 +89,4 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 [4]: http://bundler.io/
 [5]: http://idratherbewriting.com/documentation-theme-jekyll/mydoc_about_ruby_gems_etc.html
 [6]: http://localhost:4000
+[7]: https://ohjho.github.io/moon-theme/
