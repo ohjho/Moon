@@ -119,7 +119,7 @@ img {
 }
 .img-circle {
 	border-radius: 50%;
-	border: 3px solid $white;
+	border: 0px solid $white;						//changed from 3px to 0px
 	height: 150px;
 	width: 150px;
 }

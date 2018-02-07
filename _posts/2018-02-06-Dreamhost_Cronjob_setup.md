@@ -33,6 +33,10 @@ Just follow [this awesome article][2]
 
 But to config the Cron Job I need to know what time Dreamhost knows. So in the SSH shell just do `$ date`. And it seems the server's on Pacific Standard Time.
 
+Also note that Cron Job starts at root, so I found it super helpful by adding a `cd` command to the directory my python script is first. e.g. in the **command to run** set it to something like:
+```
+cd /path/to/python/script/ && bash script_that_takes_care_of_all.sh
+```
 
 [1]: http://docs.python-guide.org/en/latest/dev/virtualenvs/
 [2]: https://help.dreamhost.com/hc/en-us/articles/215088668-How-do-I-create-a-cron-job-
