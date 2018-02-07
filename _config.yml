@@ -15,7 +15,7 @@ reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo_jho.png'
 nav_about_img:      'assets/img/about/thn_headshot1.jpg'
-background:         'https://media.giphy.com/media/3o7WIvFNCu6Pgq6qPe/giphy.gif' 
+background:         'https://media.giphy.com/media/3o7WIvFNCu6Pgq6qPe/giphy.gif'
                     #''
                     #'https://source.unsplash.com/daily'
                     #'assets/img/bg/earth1.jpg'
@@ -63,7 +63,7 @@ gmap_api_key:
 #
 #
 
-disqus_shortname:   taylantatli
+disqus_shortname:   #taylantatli
 
 #
 #

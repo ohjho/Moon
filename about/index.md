@@ -7,6 +7,15 @@ feature: assets/img/about/org_headshot2.jpg
 comments: false
 ---
 <!--[JHO headshot](/assets/img/about/headshot2.jpg)  -->
+## Chinese Name
+## Numerology
+## Personal Style
+link to port
+## Purpose
+personal coaching?
+## Timeline
+## Things I know to be true
+link to blog cat
 
 ## Who am I?
 * Minimal, you can focus on your content

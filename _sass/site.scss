@@ -40,6 +40,7 @@ body {
 	min-height: 300px;
 	text-align: left;
 	color: $white;
+	opacity: 0.85;
 	@media #{$small} {
 		display: block !important;
 	}
