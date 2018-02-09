@@ -1,14 +1,22 @@
-# Site navigation links
+# bg selected based on time >= start-time and time < end-time
 
-- title: day
-  start-time:
-  end-time:
-  list:
-    -url:
-    -url:
 - title: night
-  start-time:
-  end-time:
-  list:
-    -url:
-    -url:
+  start-time: 0
+  end-time: 7
+  urls:
+    - https://media.giphy.com/media/3o7WIMrB7IOcp5gHDO/giphy.gif
+    - https://media.giphy.com/media/26DN3tgYGu22ctR8A/giphy.gif
+    - https://media.giphy.com/media/3o7WIvFNCu6Pgq6qPe/giphy.gif
+- title: day
+  start-time: 7
+  end-time: 18
+  urls:
+    - https://media.giphy.com/media/l4pTaAwYPcAz3wcZW/giphy.gif
+    - https://media.giphy.com/media/3o7WIxvP7VrTbo74w8/giphy.gif
+- title: night
+  start-time: 18
+  end-time: 24
+  urls:
+    - https://media.giphy.com/media/3o7WIMrB7IOcp5gHDO/giphy.gif
+    - https://media.giphy.com/media/26DN3tgYGu22ctR8A/giphy.gif
+    - https://media.giphy.com/media/3o7WIvFNCu6Pgq6qPe/giphy.gif
