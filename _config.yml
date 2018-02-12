@@ -15,6 +15,7 @@ reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo_jho.png'
 nav_about_img:      'assets/img/about/thn_headshot1.jpg'
+random_bg:          false     # if true, 'background' below will be ignored and data/random_background will be looked at install.
 background:         'https://media.giphy.com/media/3o7WIvFNCu6Pgq6qPe/giphy.gif'
                     #''
                     #'https://source.unsplash.com/daily'

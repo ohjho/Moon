@@ -20,16 +20,22 @@
 {% endif %}
 
 <!-- Backstretch -->
-{% capture thour %}{{site.date | date: "%H"}}{% endcapture %}
-{% assign thour = thour | plus:0 %}
-{% for period in site.data.random_background %}
-  {% if thour >= period.start-time and thour < period.end-time %}
-    {% capture bgurl %}{{period.urls | sample}}{% endcapture %}
-  {% endif %}
-{% endfor %}
+{% if site.random_bg %}
+  {% capture thour %}{{site.date | date: "%H"}}{% endcapture %}
+  {% assign thour = thour | plus:0 %}
+  {% for period in site.data.random_background %}
+    {% if thour >= period.start-time and thour < period.end-time %}
+      {% capture bgurl %}{{period.urls | sample}}{% endcapture %}
+    {% endif %}
+  {% endfor %}
+{% else %}
+  {% capture bgurl %}{{ site.background }}{% endcapture %}
+{% endif %}
+
+{% if bgurl %}
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js'></script>
     <script> $.backstretch("{{bgurl}}");</script>
-
+{% endif %}
 <!-- Disque Comments -->
 {% if page.comments != false %}
     {% include disqus_comments.html %}
