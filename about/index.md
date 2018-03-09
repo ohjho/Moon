@@ -36,13 +36,19 @@ personal coaching?
 * **It is better to do your own dharma even imperfectly, than someone else’s dharma perfectly.[^8]** When we look up to an idol, it's import to realize that what we admire is not what they do but how they embody the way of living their [dharma][def.dharma] perfectly. So the person doing the admiring must take inspiration in living their own dharma fully (or at first figure out what it is), and avoid copying and ended up living someone else's life.
 * **Life is play!** The reason everyone loves sports is because it's on the playing field that we see people displaying full intensity, full involvement[^9]. In something as silly as kicking a ball. It has rules and boundaries. And so does life! But a game can only be played if you are okay with losing. But of course you would like to win! On the other hand, If you MUST win, then you will not be a very good player. So that's life should be, we accept the rules, involve ourselves fully and intensely at every moment, and let play evolve without attachment to the outcome.
 * **Yoga is skilfulness in action.[^10]** Just as right speech is really skilful speech. The key is in action! How can the practice be applied off the mat or meditation cushion into an environment of work, with tight time constraints, and stressful stimuli? How do we hold on to that contentment, equanimity, and compassion that we cultivated? This is the [divine game][10].
-  * Distract yourself with being in the present. 
+  * Distract yourself with being in the present.
 * Wisdom of no escape
   * things can either awake you or put you further to sleep
 * limitless responsibility
 * life and meaning/ purpose
 * if you want to make an apple pie from scratch, you must first invent the universe
 * stand on shoulder of giants
+* **True freedom comes from within, don't seek it without**
+  * **freedom requires responsibility**, that's why few men seek it.
+  * Real control should also be within. Seek control not of the ever changing and transient  world. Control the five senses. If we only have five senses, then truly the world is really only of the five elements as consistent with so many cultures. In the end, it is the observer who matters more than the observed.
+* **Use pencil not pen. But when you make a mistake, cross it out, life's too short for eraser.fg** The simple way is often the best way. Sometimes the mind confuse elegance with complexity. But in fact, in [virtuosity][def.virtuosity], elegance is just a masterful display of the basics.
+
+### Personal Beliefs
 
 1232456  
 <!-- link to blog cat -->
@@ -69,3 +75,4 @@ personal coaching?
 
 [def.dharma]: https://en.wikipedia.org/wiki/Dharma
 [def.sadhguru]: http://isha.sadhguru.org/
+[def.virtuosity]: http://journal.crossfit.com/2005/08/virtuosity-1.tpl
