@@ -17,6 +17,7 @@ logo:               'assets/img/logo_jho.png'
 nav_about_img:      'assets/img/about/thn_headshot1.jpg'
 random_bg:          false     # if true, 'background' below will be ignored and data/random_background will be looked at install.
 background:         'https://media.giphy.com/media/3o7WIvFNCu6Pgq6qPe/giphy.gif'
+                    #'https://media.flixel.com/cinemagraph/v26zyfd6yf0r33s46vpe?hd=false'
                     #''
                     #'https://source.unsplash.com/daily'
                     #'assets/img/bg/earth1.jpg'
