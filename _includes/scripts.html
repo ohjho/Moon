@@ -33,6 +33,10 @@
 {% endif %}
 
 {% if bgurl %}
+    {% unless bgurl contains 'http://' or bgurl contains 'https://' %}
+      {% capture bgurl %} {{site.url}}/{{ bgurl }}
+      {% endcapture %}
+    {% endunless %}
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js'></script>
     <script> $.backstretch("{{bgurl}}");</script>
 {% endif %}

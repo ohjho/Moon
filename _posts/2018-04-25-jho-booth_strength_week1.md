@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "JHO's off-season Booth Strength cycle Week 1"
+title:  "[crossfit] post-open Booth Strength cycle Week 1"
 date:   2018-04-24
 excerpt: ""
 categories: crossfit
@@ -39,7 +39,7 @@ Starting at 65% of 1rm on week one, aim for E2MOMx20: 3 reps
 
 ## Skills
 ### Ring Mus
-1 strict, 3 kipping, 5 ring dips; rest 2 minutes; 4 sets
+1 strict, 3 kipping, 5 ring dips; rest 2 minutes; `4` sets
 ### Pullups
 2 strict C2B, 2 butterfly C2B, 2 BarMUs; rest 2 minutes; 4 sets
 ### HSPUs
