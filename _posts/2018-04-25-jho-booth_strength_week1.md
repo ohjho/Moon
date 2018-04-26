@@ -17,6 +17,7 @@ published: true
 | D.              | -              | -                   | Midline              | Shoulder Aux    | HS Walk Practice    |                |                |
 {: rules="groups"}
 
+---
 ## Oly
 ### Snatch
 #### Snatch Skills  
@@ -37,6 +38,7 @@ _Repeat this cycle (2) additional times._
 ### [Split Jerk][url_jerk]
 Starting at 65% of 1rm on week one, aim for E2MOMx20: 3 reps
 
+---
 ## Skills
 ### Ring Mus
 1 strict, 3 kipping, 5 ring dips; rest 2 minutes; `4` sets
@@ -44,6 +46,8 @@ Starting at 65% of 1rm on week one, aim for E2MOMx20: 3 reps
 2 strict C2B, 2 butterfly C2B, 2 BarMUs; rest 2 minutes; 4 sets
 ### HSPUs
 
+
+---
 ## Strength
 All follows the 5.5.5+ program. Rest 2 minutes between sets. 5+ means max reps, over 5. Program ends when the 5+ set max rep <= 5. For *Squats* we will cycle two squat days every other week.
 * Squat: `117.5`
@@ -51,6 +55,7 @@ All follows the 5.5.5+ program. Rest 2 minutes between sets. 5+ means max reps, 
 * Push Press: `70`
 * Bench:
 
+---
 ## Metcon
 ### Monday, [Spin Doctor][wod1]
 AMRAP 16:  
@@ -88,6 +93,11 @@ Buy-In: 15 Cal Bike
 6 Lateral Barbell Burpees  
 Score: `DNF`
 
+---
+## Reference
+* [Comptrain individuals][url_comptrain]
+* [Crossfit.com](https://crossfit.com)
+* [Asphodel's Wod](http://crossfitasphodel.com)
 
 
 [wod1]: http://comptrain.co/individuals/workout/monday-%c2%b7-4-23-18/
@@ -95,3 +105,4 @@ Score: `DNF`
 [wod3]: http://comptrain.co/individuals/workout/tuesday-%c2%b7-4-24-18/
 [url_cleans]: http://www.basbarbell.com/2011/09/6-weeks-to-new-power-clean-max.html
 [url_jerk]: https://www.facebook.com/events/451447668350155/
+[url_comptrain]: http://comptrain.co/individuals/home/
