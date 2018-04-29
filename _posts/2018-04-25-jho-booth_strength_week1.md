@@ -2,7 +2,7 @@
 layout: post
 title:  "[crossfit] post-open Booth Strength cycle Week 1"
 date:   2018-04-24
-excerpt: ""
+excerpt: "a strength and skills focused program in preparation for competitions in Asia"
 categories: crossfit
 tags: [Booth Strength]
 comments: true
@@ -18,6 +18,11 @@ published: true
 {: rules="groups"}
 
 ---
+### Note
+Week 1 was half written off after a small lower back injury suffered during Wednesday's metcon
+{: .notice}
+
+
 ## Oly
 ### Snatch
 #### Snatch Skills  
