@@ -9,12 +9,12 @@ comments: true
 published: true
 ---
 
-| Pieces \ Date   | Monday          | Tuesday             | Wednesday           | Thursday          | Friday               | Saturday       | Sunday         |
-|:--------------- |:--------------- |:------------------- |:------------------- |:----------------- |:-------------------- |:-------------- |:-------------- |
-| A.              | [HSPU](#skills) | [Ring MUs](#skills) | [Split Jerks](#oly) | [Snatch](#oly)    | [Power Cleans](#oly) | **_Rest Day_** | **_Rest Day_** |
-| [B.](#strength) | Bench           | Clean Pulls         | Push Press          | Squat             | Deadlifts            |                |                |
-| [C.](#metcon)   | Metcon          | Metcon              | Metcon              | Metcon            | [Pullups](#skills)   |                |                |
-| D.              | Shoulder Aux    | Midline             | HS Walk Practice    | Bike Conditioning | Midline              |                |                |
+| Pieces \ Date   | Monday           | Tuesday             | Wednesday           | Thursday          | Friday               | Saturday       | Sunday         |
+|:--------------- |:---------------- |:------------------- |:------------------- |:----------------- |:-------------------- |:-------------- |:-------------- |
+| A.              | HS Walk Practice | [Ring MUs](#skills) | [Split Jerks](#oly) | [Snatch](#oly)    | [Power Cleans](#oly) | **_Rest Day_** | **_Rest Day_** |
+| [B.](#strength) | Bench            | Clean Pulls         | Push Press          | Squat             | Deadlifts            |                |                |
+| [C.](#metcon)   | Metcon           | Metcon              | Metcon              | Metcon            | [Pullups](#skills)   |                |                |
+| D.              | Shoulder Aux     | Midline             | Midline             | Bike Conditioning | Midline              |                |                |
 {: rules="groups"}
 
 ---
@@ -63,14 +63,22 @@ All follows the 5.5.5+ program. Rest 2 minutes between sets. 5+ means max reps, 
 ---
 ## Metcon
 ### Monday
+AMRAP x7:  
+3 Bar MUs  
+5 Strict HSPUs  
+
+#### Bike Conditioning:  
+5 rounds  
+30 Cal Bike  
+_rest 1:00 between. Score is slowest round._
 ### Tuesday
 ### Wednesday
 ### Thursday
 ---
 ## Reference
-* [Comptrain individuals][url_comptrain]
-* [Crossfit.com](https://crossfit.com)
-* [Asphodel's Wod](http://crossfitasphodel.com)
+* [Comptrain individuals][url_comptrain]{:target="_blank"}
+* [Crossfit.com](https://crossfit.com){:target="_blank"}
+* [Asphodel's Wod](http://crossfitasphodel.com){:target="_blank"}
 
 
 [url_cleans]: http://www.basbarbell.com/2011/09/6-weeks-to-new-power-clean-max.html
