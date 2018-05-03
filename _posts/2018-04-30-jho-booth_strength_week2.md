@@ -9,12 +9,12 @@ comments: true
 published: true
 ---
 
-| Pieces \ Date   | Monday           | Tuesday             | Wednesday           | Thursday          | Friday               | Saturday       | Sunday         |
-|:--------------- |:---------------- |:------------------- |:------------------- |:----------------- |:-------------------- |:-------------- |:-------------- |
-| A.              | HS Walk Practice | [Ring MUs](#skills) | [Split Jerks](#oly) | [Snatch](#oly)    | [Power Cleans](#oly) | **_Rest Day_** | **_Rest Day_** |
-| [B.](#strength) | Bench            | Clean Pulls         | Push Press          | Squat             | Deadlifts            |                |                |
-| [C.](#metcon)   | Metcon           | Metcon              | Metcon              | Metcon            | [Pullups](#skills)   |                |                |
-| D.              | Shoulder Aux     | Midline             | Midline             | Bike Conditioning | Midline              |                |                |
+| Pieces \ Date   | Monday           | Tuesday             | Wednesday           | Thursday       | Friday               | Saturday       | Sunday         |
+|:--------------- |:---------------- |:------------------- |:------------------- |:-------------- |:-------------------- |:-------------- |:-------------- |
+| A.              | HS Walk Practice | [Ring MUs](#skills) | [Split Jerks](#oly) | [Snatch](#oly) | [Power Cleans](#oly) | **_Rest Day_** | **_Rest Day_** |
+| [B.](#strength) | Bench            | [Clean Pulls](#oly) | Push Press          | Squat          | Deadlifts            |                |                |
+| [C.](#metcon)   | Metcon           | Metcon              | Metcon              | Metcon         | [Pullups](#skills)   |                |                |
+| D.              | Shoulder Aux     | Midline             |                     | Midline        | Midline              |                |                |
 {: rules="groups"}
 
 ---
@@ -30,19 +30,21 @@ On the 1:30 for 7 Sets:
 Pausing Snatch Deadlift  
 Low-Hang Squat Snatch (Drop From Overhead)  
 Squat Snatch  
-`Built to 72.5`  
+
 _Build to a moderate, but not a heavy. Pause for 2 seconds at the knee on the deadlift._
 #### Squat Snatch  
 On the Minute x 9 – 1 Repetition  
-Minute 1 – 74%  
-Minute 2 – 77%  
-Minute 3 – 80%  
+Minute 1 – 77%  
+Minute 2 – 80%  
+Minute 3 – 83%  
 _Repeat this cycle (2) additional times._
 ### [Power Cleans][url_cleans]
-50% x3, 60% x2, 70% x2, EMOMx12: 80% x1
+50% x3, 60% x2, 70% x2, 80% x1, EMOMx12: 85% x1, 75% 5 x 2
+### [Cleans Pulls][url_cleans]
+EMOMx10: 1 x 90%: `94kg`
 ### [Split Jerk][url_jerk]
-Starting at 65% of 1rm on week one, aim for E2MOMx20: 3 reps
-
+Starting at 65% of 1rm on week one, aim for E2MOMx20: 3 reps  
+`72.5 kg`
 ---
 ## Skills
 ### Ring Mus
@@ -50,15 +52,13 @@ Starting at 65% of 1rm on week one, aim for E2MOMx20: 3 reps
 ### Pullups
 2 strict C2B, 2 butterfly C2B, 2 BarMUs; rest 2 minutes; 4 sets
 ### HSPUs
-
-
 ---
 ## Strength
 All follows the 5.5.5+ program. Rest 2 minutes between sets. 5+ means max reps, over 5. Program ends when the 5+ set max rep <= 5. For *Squats* we will cycle two squat days every other week.
 * Squat: `117.5`
 * Deadlifts: `117.5`
-* Push Press: `70`
-* Bench:
+* Push Press: `72.5 kg x 12`
+* Bench: `67.5 kg x 16`
 
 ---
 ## Metcon
@@ -66,14 +66,37 @@ All follows the 5.5.5+ program. Rest 2 minutes between sets. 5+ means max reps, 
 AMRAP x7:  
 3 Bar MUs  
 5 Strict HSPUs  
-
+`Score: DNF`
 #### Bike Conditioning:  
 5 rounds  
 30 Cal Bike  
 _rest 1:00 between. Score is slowest round._
+`Score: 1:58`
 ### Tuesday
+For time:  
+2k row  
+1 mile run  
+2k row  
+Score: `24:30`
+
+#### Mid-line:  
+21-18-15-12-9:
+GHDSP
+_:15 L-sit hold + 4 kipping MUs_
 ### Wednesday
+5 RFT:  
+9 Deficit HSPU @ 4.5"  
+15 C2B  
+21 Cal Row  
+50' KB Walking Lunges @ 32kg's  
+`Score: 25:56`
 ### Thursday
+For time:  
+50 cal AB  
+27 C2B  
+21 Power Snatch @ 53kg
+15 OHS @ 60kg  
+9 Squat Snatches @ 70kg
 ---
 ## Reference
 * [Comptrain individuals][url_comptrain]{:target="_blank"}

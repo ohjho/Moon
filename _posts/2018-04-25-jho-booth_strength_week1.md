@@ -36,10 +36,11 @@ _Build to a moderate, but not a heavy. Pause for 2 seconds at the knee on the de
 On the Minute x 9 – 1 Repetition  
 Minute 1 – 74%  
 Minute 2 – 77%  
-Minute 3 – 80%  
+Minute 3 – 80% `(74kg)`  
 _Repeat this cycle (2) additional times._
 ### [Power Cleans][url_cleans]
-50% x3, 60% x2, 70% x2, EMOMx12: 80% x1
+50% x3, 60% x2, 70% x2, EMOMx12: 80% x1  
+`Built to 84kg`
 ### [Split Jerk][url_jerk]
 Starting at 65% of 1rm on week one, aim for E2MOMx20: 3 reps
 
@@ -55,9 +56,9 @@ Starting at 65% of 1rm on week one, aim for E2MOMx20: 3 reps
 ---
 ## Strength
 All follows the 5.5.5+ program. Rest 2 minutes between sets. 5+ means max reps, over 5. Program ends when the 5+ set max rep <= 5. For *Squats* we will cycle two squat days every other week.
-* Squat: `117.5`
-* Deadlifts: `117.5`
-* Push Press: `70`
+* Squat: `117.5kg x 15 reps`
+* Deadlifts: `117.5 x 10 reps`
+* Push Press: `70 x 15 reps`
 * Bench:
 
 ---
