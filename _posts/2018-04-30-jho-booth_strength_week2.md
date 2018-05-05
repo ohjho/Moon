@@ -32,14 +32,17 @@ Low-Hang Squat Snatch (Drop From Overhead)
 Squat Snatch  
 
 _Build to a moderate, but not a heavy. Pause for 2 seconds at the knee on the deadlift._
+`Built to 70kg`
 #### Squat Snatch  
 On the Minute x 9 – 1 Repetition  
 Minute 1 – 77%  
 Minute 2 – 80%  
 Minute 3 – 83%  
 _Repeat this cycle (2) additional times._
+`Built to 77kg`
 ### [Power Cleans][url_cleans]
 50% x3, 60% x2, 70% x2, 80% x1, EMOMx12: 85% x1, 75% 5 x 2
+`built to 89kg at 85% and 79kg at 75%`
 ### [Cleans Pulls][url_cleans]
 EMOMx10: 1 x 90%: `94kg`
 ### [Split Jerk][url_jerk]
@@ -50,13 +53,13 @@ Starting at 65% of 1rm on week one, aim for E2MOMx20: 3 reps
 ### Ring Mus
 1 strict, 3 kipping, 5 ring dips; rest 2 minutes; `4` sets
 ### Pullups
-2 strict C2B, 2 butterfly C2B, 2 BarMUs; rest 2 minutes; 4 sets
+2 strict C2B, 2 butterfly C2B, 2 BarMUs; rest 2 minutes; `4` sets
 ### HSPUs
 ---
 ## Strength
 All follows the 5.5.5+ program. Rest 2 minutes between sets. 5+ means max reps, over 5. Program ends when the 5+ set max rep <= 5. For *Squats* we will cycle two squat days every other week.
-* Squat: `117.5`
-* Deadlifts: `117.5`
+* Squat: `117.5 x 15`
+* Deadlifts: `117.5 x 11`
 * Push Press: `72.5 kg x 12`
 * Bench: `67.5 kg x 16`
 
@@ -96,7 +99,15 @@ For time:
 27 C2B  
 21 Power Snatch @ 53kg
 15 OHS @ 60kg  
-9 Squat Snatches @ 70kg
+9 Squat Snatches @ 70kg  
+`Score: 14:36`
+### Friday
+For time:  
+7 rope climbs  
+15 parrelets HSPUs  
+30 cal AB  
+15 Sandbag hang cleans @ 50kgs  
+`Score: 12:28`
 ---
 ## Reference
 * [Comptrain individuals][url_comptrain]{:target="_blank"}
