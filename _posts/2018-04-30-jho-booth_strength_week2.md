@@ -47,7 +47,7 @@ _Repeat this cycle (2) additional times._
 EMOMx10: 1 x 90%: `94kg`
 ### [Split Jerk][url_jerk]
 Starting at 65% of 1rm on week one, aim for E2MOMx20: 3 reps  
-`72.5 kg`
+`72.5 kg 10 x 3`
 ---
 ## Skills
 ### Ring Mus
@@ -84,7 +84,7 @@ Score: `24:30`
 
 #### Mid-line:  
 21-18-15-12-9:
-GHDSP
+GHDSP  
 _:15 L-sit hold + 4 kipping MUs_
 ### Wednesday
 5 RFT:  
