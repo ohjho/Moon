@@ -37,8 +37,17 @@
       {% capture bgurl %} {{site.url}}/{{ bgurl }}
       {% endcapture %}
     {% endunless %}
+    {% if bgurl contains 'mp4' %}
+    <!-- Not working now but check out BigVideo.js: https://github.com/dfcb/BigVideo.js -->
+    <script src='https://rawgit.com/siebevd/bgVideo/master/jquery.bgvideo.min.js' ></script>
+    <script> $.bgVideo({
+      mp4Src:'{{bgurl}}'
+      });
+    </script>
+    {% else %}
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js'></script>
     <script> $.backstretch("{{bgurl}}");</script>
+    {% endif %}
 {% endif %}
 <!-- Disque Comments -->
 {% if page.comments != false %}

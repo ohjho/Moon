@@ -42,7 +42,8 @@ _non this week, because of double squat days_
 
 ### [Split Jerk][url_jerk]
 Starting at 65% of 1rm on week one, aim for E2MOMx20: 3 reps  
-`75 kg`
+`75 kg`  
+
 ---
 ## Skills
 ### Ring Mus
@@ -57,7 +58,8 @@ _rest 1 minute_
 AMRAPx3:  
 Max unbroken complex of 1 strict + 4 kipping  
 
-_must come off wall after each completed set._
+_must come off wall after each completed set._  
+
 ---
 ## Strength
 All follows the 5.5.5+ program. Rest 2 minutes between sets. 5+ means max reps, over 5. Program ends when the 5+ set max rep <= 5. For *Squats* we will cycle two squat days every other week.

@@ -47,7 +47,8 @@ _Repeat this cycle (2) additional times._
 EMOMx10: 1 x 90%: `94kg`
 ### [Split Jerk][url_jerk]
 Starting at 65% of 1rm on week one, aim for E2MOMx20: 3 reps  
-`72.5 kg 10 x 3`
+`72.5 kg 10 x 3`  
+
 ---
 ## Skills
 ### Ring Mus
@@ -55,6 +56,7 @@ Starting at 65% of 1rm on week one, aim for E2MOMx20: 3 reps
 ### Pullups
 2 strict C2B, 2 butterfly C2B, 2 BarMUs; rest 2 minutes; `4` sets
 ### HSPUs
+
 ---
 ## Strength
 All follows the 5.5.5+ program. Rest 2 minutes between sets. 5+ means max reps, over 5. Program ends when the 5+ set max rep <= 5. For *Squats* we will cycle two squat days every other week.
@@ -107,7 +109,8 @@ For time:
 15 parrelets HSPUs  
 30 cal AB  
 15 Sandbag hang cleans @ 50kgs  
-`Score: 12:28`
+`Score: 12:28`  
+
 ---
 ## Reference
 * [Comptrain individuals][url_comptrain]{:target="_blank"}
