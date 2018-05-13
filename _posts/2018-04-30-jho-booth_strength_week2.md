@@ -54,7 +54,7 @@ Starting at 65% of 1rm on week one, aim for E2MOMx20: 3 reps
 ### Ring Mus
 1 strict, 3 kipping, 5 ring dips; rest 2 minutes; `4` sets
 ### Pullups
-2 strict C2B, 2 butterfly C2B, 2 BarMUs; rest 2 minutes; `4` sets
+`3` strict C2B, `3` butterfly C2B, `3` BarMUs; rest 2 minutes; 4 sets
 ### HSPUs
 
 ---
