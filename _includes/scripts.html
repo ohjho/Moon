@@ -38,9 +38,12 @@
       {% endcapture %}
     {% endunless %}
     {% if bgurl contains 'mp4' %}
-    <!-- Not working now but check out BigVideo.js: https://github.com/dfcb/BigVideo.js -->
-    <script src='https://raw.githubusercontent.com/siebevd/bgVideo/master/jquery.bgvideo.js' ></script>
-    <script> $.bgVideo({
+    <!-- Not working now but check out BigVideo.js: https://github.com/dfcb/BigVideo.js
+                                    or Vide: https://github.com/VodkaBears/Vide#readme
+                                  we might have to save the MP4 locally as well
+    -->
+    <script src='{{ site.url }}/assets/js/jquery.bgvideo.js' ></script>
+    <script> $('body').bgVideo({
       mp4Src:'{{bgurl}}'
       });
     </script>
