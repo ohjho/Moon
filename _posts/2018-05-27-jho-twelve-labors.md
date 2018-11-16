@@ -63,6 +63,11 @@ _then immediately_
 10-9-8-7-6-5-4-3-2-1:  
 Push ups  
 Pull ups  
+Barbell offset lateral side bent (right)  
+Barbell offset lateral side bent (left)  
+Russian Twist @ 20 kg  
+Weighted Back Extension @ 20 kg  
+Barbell Situp  
 
 ### Endurance  
 #### Triple Threes

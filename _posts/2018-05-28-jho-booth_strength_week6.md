@@ -27,20 +27,23 @@ week 5 was deload week (in Vancouver).
 #### Snatch Skills  
 EMOMx7:  
 1 OHS  
+`Built to 95`  
 EMOMx7:  
-2 Snatch balances
+2 Snatch balances  
+`Built to 85`  
 
 #### Squat Snatch  
 EMOMx7:  
 2 Hang Squat Snatches  
-_build to a heavy set of 2_
+_build to a heavy set of 2_  
+`Built to 80kg`  
 
 ### [Power Cleans][url_cleans]
 50% x3, 60% x2, 70% x2, 80% x1, 85% x 1, 90% x1, EMOMx5: 95% x 1, 80% 5 x 2  
 `built to 100`  
 ### [Cleans Pulls][url_cleans]
 60% x2, 70% x2, 80% x1, 85% x1, 90% x1, 100% x1, 105% x1, EMOMx6: 110% x 1  
-`built to 115`  
+`DNF`  
 ### [Split Jerk][url_jerk]
 Starting at 65% of 1rm on week one, aim for E2MOMx20: 3 reps  
 `77.5 kg`  
@@ -48,7 +51,7 @@ Starting at 65% of 1rm on week one, aim for E2MOMx20: 3 reps
 ---
 ## Skills
 ### Ring Mus (weighted `5` kg)
-1 strict, 3 kipping, 5 ring dips; rest 2 minutes; `?` sets
+1 strict, 3 kipping, 5 ring dips; rest 2 minutes; `2` sets
 ### Pullups
 `6` strict C2B, `6` butterfly C2B, `6` BarMUs; rest 2 minutes; 4 sets
 ### HSPUs
@@ -57,10 +60,10 @@ _nothing this week_
 ---
 ## Strength
 All follows the 5.5.5+ program. Rest 2 minutes between sets. 5+ means max reps, over 5. Program ends when the 5+ set max rep <= 5. For *Squats* we will cycle two squat days every other week.
-* Squat: `127.5kg`  
-* Deadlifts: `125kg`  
-* Push Press: `80kg`  
-* Bench: `75kg`  
+* Squat: `127.5kg x 12`  
+* Deadlifts: `125kg x 12`  
+* Push Press: `80kg x 12`  
+* Bench: `75kg (right shoulder hurt)`  
 
 ---
 ## Metcon

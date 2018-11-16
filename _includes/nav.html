@@ -2,6 +2,8 @@
 		<button class="dl-trigger">Open Menu</button>
 		<ul class="dl-menu">
 			<li><a href="{{ site.url }}/">Home</a></li>
+
+			<!-- The About Button -->
 			<li>
 				<a href="#">About</a>
 				<ul class="dl-submenu">
@@ -10,7 +12,11 @@
 						<h4>{{ site.title }}</h4>
 						<p>{{ site.description }}</p>
 					</li>
+
+					{% if site.in_prod %}
 					<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse">read more</span></a></li>
+					{% endif %}
+
 					{% if site.email %}
 					<li><a href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer">
 						<i class="fa fa-fw fa-envelope-square"></i> Email</a>
@@ -26,6 +32,8 @@
 
 				</ul><!-- /.dl-submenu -->
 			</li>
+
+			{% if site.in_prod %}
 			<li>
 				<a href="#">Posts</a>
 				<ul class="dl-submenu">
@@ -33,6 +41,8 @@
 					<li><a href="{{ site.url }}/tags/">All Tags</a></li>
 				</ul>
 			</li>
+			{% endif %}
+
 			{% for link in site.data.navigation %}
 		    {% if link.url contains 'http' %}
 		        {% assign domain = '' %}
@@ -41,5 +51,6 @@
 		    {% endif %}
 		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a></li>
 		  {% endfor %}
+
 		</ul><!-- /.dl-menu -->
 	</nav><!-- /.dl-menuwrapper -->

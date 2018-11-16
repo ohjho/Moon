@@ -3,14 +3,14 @@
 #
 
 - name: GitHub
-  url: http://github.com/traderjohn
+  url: http://github.com/ohjho
   class: "fa fa-fw fa-github" #"fa fa-fw fa-github"
   title: Checkout my Github Repos
 
-- name: WhatsApp
-  url: https://api.whatsapp.com/send?phone=85266265090
-  class: "fa fa-fw fa-whatsapp"
-  title: Whatsapp
+# - name: WhatsApp
+#   url: https://api.whatsapp.com/send?phone=85266265090
+#   class: "fa fa-fw fa-whatsapp"
+#   title: Whatsapp
 
 - name: Instagram
   url: http://instagram.com/johnho.ca/
@@ -37,37 +37,37 @@
   class: "fa fa-fw fa-mixcloud"
   title: Listen to my mixes on Mixcloud
 
-- name: Soundcloud
-  url: http://soundcloud.com/ohjho
-  class: "fa fa-fw fa-soundcloud"
-  title: Listen to my mixes on Soundcloud
+# - name: Soundcloud
+#   url: http://soundcloud.com/ohjho
+#   class: "fa fa-fw fa-soundcloud"
+#   title: Listen to my mixes on Soundcloud
 
-- name: Facebook
-  url: http://www.facebook.com/john.br0/
-  class: "fa fa-fw fa-facebook-square"
-  title: Friend me on Facebook
+# - name: Facebook
+#   url: http://www.facebook.com/john.br0/
+#   class: "fa fa-fw fa-facebook-square"
+#   title: Friend me on Facebook
 
-- name: GoodReads
-  url: https://www.goodreads.com/user/show/62335315-john-ho
-  class: "fa fa-fw fa-book"
-  title: See what I'm reading
-
-- name: Filpboard
-  url: https://flipboard.com/@jho85
-  class: "fa fa-fw fa-bookmark"
-  title: My Filpboard
-
-- name: Giphy
-  url: https://giphy.com/channel/yogi_cinemagrapher
-  class: "fa fa-fw fa-file-o"
-  title: Giphy-Checkout my Cinemagraphy
-
-- name: Unsplash
-  url: https://unsplash.com/@ohjho/collections
-  class: "fa fa-fw fa-camera"
-  title: My images on Unsplash
-
-- name: Crossfit
-  url: https://games.crossfit.com/athlete/100455
-  class: "fa fa-fw fa-copyright"
-  title: My Crossfit.com Athlete Profile
+# - name: GoodReads
+#   url: https://www.goodreads.com/user/show/62335315-john-ho
+#   class: "fa fa-fw fa-book"
+#   title: See what I'm reading
+#
+# - name: Filpboard
+#   url: https://flipboard.com/@jho85
+#   class: "fa fa-fw fa-bookmark"
+#   title: My Filpboard
+#
+# - name: Giphy
+#   url: https://giphy.com/channel/yogi_cinemagrapher
+#   class: "fa fa-fw fa-file-o"
+#   title: Giphy-Checkout my Cinemagraphy
+#
+# - name: Unsplash
+#   url: https://unsplash.com/@ohjho/collections
+#   class: "fa fa-fw fa-camera"
+#   title: My images on Unsplash
+#
+# - name: Crossfit
+#   url: https://games.crossfit.com/athlete/100455
+#   class: "fa fa-fw fa-copyright"
+#   title: My Crossfit.com Athlete Profile

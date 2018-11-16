@@ -16,12 +16,13 @@ words_per_minute:   200
 logo:               'assets/img/logo_jho.png'
 nav_about_img:      'assets/img/about/thn_headshot1.jpg'
 random_bg:          false     # if true, 'background' below will be ignored and data/random_background will be looked at install.
-background:         'assets/img/bg/flixel_space_station.gif'
+background:         'http://dfcb.github.io/BigVideo.js/vids/river.mp4'
+                    #'assets/img/bg/flixel_space_station.gif'
                     #'https://media.giphy.com/media/3o7WIvFNCu6Pgq6qPe/giphy.gif'
                     #'https://media.flixel.com/cinemagraph/v26zyfd6yf0r33s46vpe?hd=false'
                     #''
                     #'https://source.unsplash.com/daily'
-
+in_prod:            false   #Set this to false remove most blogging functionality; making it mostly just a landing page
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                '' #https://ohjho.github.io

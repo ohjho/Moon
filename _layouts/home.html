@@ -30,6 +30,8 @@ layout: compress
 			                  </a>
                     </h3>
                     {% include social-links.html %}
+
+                    {% if site.in_prod %}
                     <hr class="hr-line">
                     <h3 class="title">
                        <a class="btn zoombtn" href="{{ site.url }}/about">
@@ -42,6 +44,7 @@ layout: compress
                        Projects
                        </a>
                    </h3>
+                   {% endif %}
             </div>
         </div>
     </header>

@@ -39,7 +39,7 @@
     {% endunless %}
     {% if bgurl contains 'mp4' %}
     <!-- Not working now but check out BigVideo.js: https://github.com/dfcb/BigVideo.js -->
-    <script src='https://rawgit.com/siebevd/bgVideo/master/jquery.bgvideo.min.js' ></script>
+    <script src='https://raw.githubusercontent.com/siebevd/bgVideo/master/jquery.bgvideo.js' ></script>
     <script> $.bgVideo({
       mp4Src:'{{bgurl}}'
       });
@@ -49,6 +49,7 @@
     <script> $.backstretch("{{bgurl}}");</script>
     {% endif %}
 {% endif %}
+
 <!-- Disque Comments -->
 {% if page.comments != false %}
     {% include disqus_comments.html %}
