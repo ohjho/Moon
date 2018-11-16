@@ -9,8 +9,10 @@
 #
 
 title:              JohnHo.ca
-bio:                'this is not real reality. the real reality is behind the curtain. in truth, we are not here. this is our shadow. ~Rumi'
-description:        "Connect with John Ho"
+bio:                'i am who i am because you are who you are'
+                    #'this is not real reality. the real reality is behind the curtain. in truth, we are not here. this is our shadow. ~Rumi'
+description:        'yoga, fitness, data science, lululemon ambrassador <br/><br/> connect with me!'
+                    #"Connect with John Ho"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo_jho.png'
