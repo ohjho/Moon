@@ -8,13 +8,15 @@ comments: false
 ---
 
 ## What I'm working on now?
-* Doing a Data Science Bootcamp with [Xccelerate HK](https://xccelerate.co)
-* Using machine learning to predict HK property price using [Centadata](https://centadata.publicdata.hk/)
-* Working on my [Personal Website][5]
+* Looking for the next opportunity in Hong Kong's Data Science Science community after finishing [Xccelerate HK's](https://xccelerate.co) bootcamp
+* Using machine learning to [predict HK property price](https://gitpitch.com/ohjho/ftds_oct_2018/master?p=Projects/BeginnerDataScience) using [Centadata](https://centadata.publicdata.hk/)
+* Improving [SENDASH](http://sendash-app.github.io), an Overnight News Sentiment Dashboard for stock trading.
 
+{% comment %}
 ## What's on the horizon?
 * [My wife and I][1] are expecting our first child 29th January 2019
 * Running a charity HIIT/ functional fitness class with Lululemon for the Yama Foundation on 8th Dec 2018
+{% endcomment %}
 
 ## Where on earth am I now?
 <iframe width="100%" height="450px" frameborder="0" style="border:0"
