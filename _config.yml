@@ -29,7 +29,7 @@ in_prod:            false   #Set this to false remove most blogging functionalit
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                '' #https://ohjho.github.io
-puburl:	    	    'https://ohjho.github.io'
+puburl:	    	      'https://ohjho.github.io'
 
 
 #
