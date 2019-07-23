@@ -2,15 +2,15 @@
 layout: page
 title: JHO's Now Page
 tags: about
-date: 2018-02-04
+date: 2019-07-22
 feature: assets/img/about/org_headshot2.jpg
 comments: false
 ---
 
 ## What I'm working on now?
-* Looking for the next opportunity in Hong Kong's Data Science Science community after finishing [Xccelerate HK's](https://xccelerate.co) bootcamp
-* Using machine learning to [predict HK property price](https://gitpitch.com/ohjho/ftds_oct_2018/master?p=Projects/BeginnerDataScience) using [Centadata](https://centadata.publicdata.hk/)
-* Improving [SENDASH](http://sendash-app.github.io), an Overnight News Sentiment Dashboard for stock trading.
+* Working on AI and Computer Vision Projects at the coolest start-up in the universe, [Miro](https://miro.io)
+* Learning to how to be the best Dad in the world (with the help of my lovely wife) to our Bébé Jasmine!
+* Sharing the teaching of Antigravity/ Aerial Yoga at [Crossfit Asphodel](https://crossfitasphodel.com/) and [Flex](https://flexhk.com/)
 
 {% comment %}
 ## What's on the horizon?
